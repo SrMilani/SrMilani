@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">🌱 Graduando em Sistemas da Informação - Universidade Anhembi Morumbi<br><br>✅ Estou procurando projetos de analista de dados para colocar em prática o conhecimento.<br><br>📫 Contate-me através do e-mail milani.weslley@live.com<br><br>💻 Estudante de Engenharia de Dados</h6>
+<h6 align="left">🌱 Graduando em Sistemas da Informação - FMU br><br>✅ Estou procurando projetos de Cyber Security Blue Team para colocar em prática o conhecimento.<br><br>📫 Contate-me através do e-mail milani.weslley@live.com<br><br>💻 Estudante de Engenharia de Dados</h6>
 
 ###
 
